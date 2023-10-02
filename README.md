@@ -9,7 +9,7 @@
 An app for users to efficiently track their tasks at work to improve productivity and track value add of their work. Users log and track the status of weekly to-dos, follow-ups, unplanned asks, and weekly accomplishments. 
 
 ## Technologies Used
-HTML, CSS, Typescript, Nest.js, Next.js
+HTML, CSS, Typescript, Nest.js, Next.js, MongoDB
 
 ## List of Backend API Routes
 
